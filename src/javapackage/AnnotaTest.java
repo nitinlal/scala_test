@@ -1,5 +1,8 @@
 package javapackage;
+
 import java.io.IOException;
+
+import scalainit.Reader;
 
 @Source(url = "test.com", mail = "test@test.com")
 public class AnnotaTest {
