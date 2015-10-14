@@ -1,5 +1,5 @@
 
-/**
+package scalainit/**
  */
 trait Similarity {
   def isSimilar(x: Any): Boolean

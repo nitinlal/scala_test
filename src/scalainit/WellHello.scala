@@ -1,6 +1,6 @@
 
 
-import java.util.Date
+package scalainit
 
 object WellHello extends App{
     println("hello scala");

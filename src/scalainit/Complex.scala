@@ -1,5 +1,7 @@
 
 
+package scalainit
+
 class Complex (real : Integer, imaginary : Float) {
   
   def re() = real;
